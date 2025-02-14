@@ -21,11 +21,11 @@
 #include <cmath>
 #include <glm/gtx/string_cast.hpp>
 
-#include "LoadShaders.h"
-#include "ProgramDefines.h"
-#include "Material.h"
-#include "Light.h"
-#include "Shape.h"
+//#include "LoadShaders.h"
+//#include "ProgramDefines.h" //-> Includes Definition of BUFFER_OFFSET, will need to redefine here
+//#include "Material.h"
+//#include "Light.h"
+//#include "Shape.h"
 
 class objBone{
     private:

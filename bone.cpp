@@ -1,3 +1,9 @@
+/*
+    Was Originally Included with a pre-existing OpenGL Engine
+    But has been seperated, this code will not run on its own.
+    Uses OpenGL for matrix library
+*/
+
 #include "bone.h"
 
 //While it is called "Bone", it contains all joint pairs
